@@ -4,25 +4,27 @@
   
     
     <entry>
-      <title>标签测试</title>
-      <link href="/2022/03/26/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
-      <url>/2022/03/26/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</url>
+      <title>启程算法之旅</title>
+      <link href="/2022/03/26/%E5%90%AF%E7%A8%8B%E7%AE%97%E6%B3%95%E4%B9%8B%E6%97%85/"/>
+      <url>/2022/03/26/%E5%90%AF%E7%A8%8B%E7%AE%97%E6%B3%95%E4%B9%8B%E6%97%85/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="博客说明"><a href="#博客说明" class="headerlink" title="博客说明"></a>博客说明</h1><p>自己一直有记笔记的习惯，感觉这样可以很好减少重复学习的时间。虽然现在CSDN和知乎都可以通过博客的方式来记录学习内容，但是总感觉他们那个书写界面不太适合自己。所以平常都是通过Typora记录在本地，随着记录的内容不断增多，感觉总是在本地和手机之间传来传去有点不太方便。所以就想做个个人博客吧，这样既能继续保留Typora写文档的习惯，还能把学的东西系统化的展示出来，同时也能看的方便。这么一琢磨，确实是时候做一做了。</p><p>经过两天的学习，终于把这个博客搞完了。除了界面的美化不能和专业前端相比之外，现有的功能已经基本满足个人的使用需求。根据目前的情况，以后也会不定期的更新博客，后续内容主要分两方面：第一方面主要是一些常见的机器学习算法的应用和理论（LR，SVM，随机森林，决策树，GBDT，XGboost，LightGBM，贝叶斯网络，HMM，CRF和聚类等）。对于深度学习这一块，因为自己主要搞NLP方向，所以会集中讲一些深度学习框架应用（CNN，RNN，Word2Vector，LSTM，Transformer，BERT，RoBert，XLBert和XLNet等）。最后是希望自己可以保证精产还能多产。当然最重要的是希望通过写博客这样一种方式，可以让自己的学习过程能更扎实一些。也让自己对技术的掌握更熟练一些。毕竟技术的尽头还是技术。</p><h2 id="Hexo个人常用命令"><a href="#Hexo个人常用命令" class="headerlink" title="Hexo个人常用命令"></a>Hexo个人常用命令</h2><p>为了减少重复搜索，还是记下来比较好</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s <span class="comment">#启动本地静态页面</span></span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g <span class="comment">#生成静态文件</span></span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d <span class="comment">#部署到远程站点</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
           
-          <category> 分类一 </category>
+          <category> 技能学习 </category>
+          
+          <category> Hexo使用 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 2222 </tag>
+            <tag> 博客搭建 </tag>
             
-            <tag> 1111 </tag>
+            <tag> Hexo框架 </tag>
             
         </tags>
       
@@ -40,14 +42,16 @@
       
       <categories>
           
-          <category> 谁还没个开始 </category>
+          <category> 技能学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 测试文档 </tag>
+            <tag> 博客搭建 </tag>
+            
+            <tag> 个人建设 </tag>
             
         </tags>
       
