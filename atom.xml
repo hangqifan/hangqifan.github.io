@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-11T08:56:04.552Z</updated>
+  <updated>2022-04-18T07:00:07.057Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python读写excel脚本---根据地址提取省市县区</title>
+    <link href="http://example.com/2022/04/18/Python%E8%AF%BB%E5%86%99excel%E8%84%9A%E6%9C%AC---%E6%A0%B9%E6%8D%AE%E5%9C%B0%E5%9D%80%E6%8F%90%E5%8F%96%E7%9C%81%E5%B8%82%E5%8E%BF%E5%8C%BA/"/>
+    <id>http://example.com/2022/04/18/Python%E8%AF%BB%E5%86%99excel%E8%84%9A%E6%9C%AC---%E6%A0%B9%E6%8D%AE%E5%9C%B0%E5%9D%80%E6%8F%90%E5%8F%96%E7%9C%81%E5%B8%82%E5%8E%BF%E5%8C%BA/</id>
+    <published>2022-04-18T05:55:58.557Z</published>
+    <updated>2022-04-18T07:00:07.057Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Python读写excel脚本—-根据地址提取省市县区&quot;&gt;&lt;a href=&quot;#Python读写excel脚本—-根据地址提取省市县区&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技能学习" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="python处理数据" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/python%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="Python实战项目" scheme="http://example.com/tags/Python%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="Python技巧学习" scheme="http://example.com/tags/Python%E6%8A%80%E5%B7%A7%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Python疑难杂症" scheme="http://example.com/tags/Python%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+  </entry>
   
   <entry>
     <title>经典论文Transformer的解读与总结---《Attention is All you need》三（Why Self-Attention部分）</title>
