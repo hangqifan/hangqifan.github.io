@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-22T08:17:25.048Z</updated>
+  <updated>2022-04-22T07:13:48.177Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://example.com/2022/04/22/test/"/>
-    <id>http://example.com/2022/04/22/test/</id>
-    <published>2022-04-22T08:17:25.048Z</published>
-    <updated>2022-04-22T08:17:25.048Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="技能学习" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="博客搭建" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    <category term="个人建设" scheme="http://example.com/tags/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E8%AE%BE/"/>
-    
-  </entry>
   
   <entry>
     <title>Python六式---变量的命名和运算符</title>
@@ -294,7 +267,7 @@
     <link href="http://example.com/2022/03/25/hello-world/"/>
     <id>http://example.com/2022/03/25/hello-world/</id>
     <published>2022-03-25T08:25:52.169Z</published>
-    <updated>2022-03-26T10:18:17.851Z</updated>
+    <updated>2022-04-22T08:25:57.479Z</updated>
     
     
       
