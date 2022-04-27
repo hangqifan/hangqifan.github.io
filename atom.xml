@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-22T08:13:37.105Z</updated>
+  <updated>2022-04-27T13:42:11.499Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python六式---面相对象基础语法和私有属性私有方法</title>
+    <link href="http://example.com/2022/04/27/Python%E5%85%AD%E5%BC%8F---%E9%9D%A2%E7%9B%B8%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
+    <id>http://example.com/2022/04/27/Python%E5%85%AD%E5%BC%8F---%E9%9D%A2%E7%9B%B8%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</id>
+    <published>2022-04-27T10:45:53.530Z</published>
+    <updated>2022-04-27T13:42:11.499Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Python六式—-面相对象基础语法和私有属性私有方法&quot;&gt;&lt;a href=&quot;#Python六式—-面相对象基础语法和私有属性私有方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技能学习" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="python基础知识" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    
+    <category term="Python六式" scheme="http://example.com/tags/Python%E5%85%AD%E5%BC%8F/"/>
+    
+    <category term="Python基础" scheme="http://example.com/tags/Python%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>Python六式---判断和循环</title>
