@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-29T08:18:47.862Z</updated>
+  <updated>2022-04-29T09:09:27.775Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python设计模式---单例模式</title>
+    <link href="http://example.com/2022/04/29/Python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F---%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://example.com/2022/04/29/Python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F---%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</id>
+    <published>2022-04-29T08:50:15.873Z</published>
+    <updated>2022-04-29T09:09:27.775Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Python设计模式—-单例模式&quot;&gt;&lt;a href=&quot;#Python设计模式—-单例模式&quot; class=&quot;headerlink&quot; title=&quot;Python设计模式—-单例模式&quot;&gt;&lt;/a&gt;Python设计模式—-单例模式&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="技能学习" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Python设计模式" scheme="http://example.com/categories/%E6%8A%80%E8%83%BD%E5%AD%A6%E4%B9%A0/Python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="Python基础" scheme="http://example.com/tags/Python%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="Python设计模式" scheme="http://example.com/tags/Python%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>Python六式---类属性和类方法</title>
